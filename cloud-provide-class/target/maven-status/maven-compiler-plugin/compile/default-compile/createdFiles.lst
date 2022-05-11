@@ -1,0 +1,5 @@
+springcloud\ClassMain.class
+springcloud\service\ClassService.class
+springcloud\dao\ClassesDao.class
+springcloud\service\ClassServiceImpl.class
+springcloud\controller\ClassController.class

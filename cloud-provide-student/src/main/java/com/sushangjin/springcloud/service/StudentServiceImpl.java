@@ -14,7 +14,6 @@ public class StudentServiceImpl implements StudentService{
 
     @Override
     public Student queryById(Long id) {
-        //todo
-        return null;
+        return studentDao.queryById(id);
     }
 }

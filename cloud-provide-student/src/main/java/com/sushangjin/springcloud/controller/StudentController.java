@@ -16,7 +16,7 @@ public class StudentController {
     @Autowired
     StudentService studentService;
 
-    @GetMapping("/payment/get/{id}")
+    @GetMapping("/stupro/get/{id}")
     public CommonResult queryById(@PathVariable("id") Long id){
         Student student = studentService.queryById(id);
         log.info("***************查询成功*********"+student);

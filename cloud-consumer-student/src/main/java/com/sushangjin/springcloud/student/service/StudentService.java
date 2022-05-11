@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 @FeignClient(value ="mcroservice-pro-student")
 public interface StudentService {
 
-    @GetMapping("/student/get/{id}")
+    @GetMapping("/stupro/get/{id}")
     public CommonResult queryById(@PathVariable("id") Long id);
 }

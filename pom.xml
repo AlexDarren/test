@@ -15,7 +15,6 @@
         <module>cloud-eureka-server</module>
         <module>cloud-provide-class</module>
         <module>cloud-consumer-class</module>
-        <module>cloud-consumer-feign</module>
         <module>cloud-gateway-gateway</module>
     </modules>
 

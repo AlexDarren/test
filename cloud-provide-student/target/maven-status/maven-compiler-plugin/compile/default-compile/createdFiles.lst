@@ -1,0 +1,5 @@
+com\sushangjin\springcloud\controller\StudentController.class
+com\sushangjin\springcloud\StudentMain.class
+com\sushangjin\springcloud\service\StudentServiceImpl.class
+com\sushangjin\springcloud\dao\StudentDao.class
+com\sushangjin\springcloud\service\StudentService.class

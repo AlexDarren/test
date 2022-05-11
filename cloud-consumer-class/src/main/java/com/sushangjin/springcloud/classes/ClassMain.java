@@ -1,4 +1,4 @@
-package student;
+package com.sushangjin.springcloud.classes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
